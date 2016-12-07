@@ -1,2 +1,2 @@
 # mydreams
-this for testing/learning
+this is for testing/learning
